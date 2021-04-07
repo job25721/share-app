@@ -1,0 +1,2 @@
+yarn
+node dist/main

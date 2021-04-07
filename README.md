@@ -10,7 +10,7 @@ CPE CMU 2020 SENIOR PROJECT
 
 ## `Setup`
 
-### share-application <br>
+### share-application /app <br>
 
 <br><b>require</b> <br>
 <b>/android/app></b> -> google-services.json
